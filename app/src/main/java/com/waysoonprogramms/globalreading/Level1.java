@@ -27,7 +27,7 @@ public class Level1 extends AppCompatActivity {
         textView1a = findViewById(R.id.textView4);
     }
 
-    private int xDelta, yDelta, topA, leftA, rightA, bottomA, topB, leftB, rightB, bottomB;
+    private int xDelta, yDelta, topA, leftA, rightA, bottomA;
     private int viewVisible = 6;
 
 
